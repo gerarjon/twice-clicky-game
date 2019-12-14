@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/twice-clicky-game/static/css/main.093a23b7.chunk.css",
+    "main.js": "/twice-clicky-game/static/js/main.47aa7fae.chunk.js",
+    "main.js.map": "/twice-clicky-game/static/js/main.47aa7fae.chunk.js.map",
+    "runtime-main.js": "/twice-clicky-game/static/js/runtime-main.780908a4.js",
+    "runtime-main.js.map": "/twice-clicky-game/static/js/runtime-main.780908a4.js.map",
+    "static/js/2.967ca4c6.chunk.js": "/twice-clicky-game/static/js/2.967ca4c6.chunk.js",
+    "static/js/2.967ca4c6.chunk.js.map": "/twice-clicky-game/static/js/2.967ca4c6.chunk.js.map",
+    "index.html": "/twice-clicky-game/index.html",
+    "precache-manifest.07b68a58cc0b5f81da44c24e513f5440.js": "/twice-clicky-game/precache-manifest.07b68a58cc0b5f81da44c24e513f5440.js",
+    "service-worker.js": "/twice-clicky-game/service-worker.js",
+    "static/css/main.093a23b7.chunk.css.map": "/twice-clicky-game/static/css/main.093a23b7.chunk.css.map",
+    "static/js/2.967ca4c6.chunk.js.LICENSE": "/twice-clicky-game/static/js/2.967ca4c6.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.780908a4.js",
+    "static/js/2.967ca4c6.chunk.js",
+    "static/css/main.093a23b7.chunk.css",
+    "static/js/main.47aa7fae.chunk.js"
+  ]
+}
