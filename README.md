@@ -1,7 +1,7 @@
 # Clicky Game
 A React game that tests the player's memory retention ability by displaying  unique image blocks and challenges the player to click on each block only once to win!
 
-[Deployed](https://gerarjon.github.io/clicky-game)
+[Deployed](https://gerarjon.github.io/twice-clicky-game)
 
 <img width="1200" alt="Clicky Game" src="https://user-images.githubusercontent.com/47680567/70854595-a6b1da00-1e72-11ea-9042-0076770ea9cf.gif">
 
