@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Tzuyu",
+    "image": "/assets/images/TwiceTzuyu.png"
+  },
+  {
+    "id": 2,
+    "name": "Sana",
+    "image": "/assets/images/TwiceSana.png"
+  },
+  {
+    "id": 3,
+    "name": "Momo",
+    "image": "/assets/images/TwiceMomo.png"
+  },
+  {
+    "id": 4,
+    "name": "Chaeyoung",
+    "image": "/assets/images/TwiceChaeyoung.png"
+  },
+  {
+    "id": 5,
+    "name": "Dahyun",
+    "image": "/assets/images/TwiceDahyun.png"
+  },
+  {
+    "id": 6,
+    "name": "Nayeon",
+    "image": "/assets/images/TwiceNayeon.png"
+  },
+  {
+    "id": 7,
+    "name": "Jihyo",
+    "image": "/assets/images/TwiceJihyo.png"
+  },
+  {
+    "id": 8,
+    "name": "Jeongyeon",
+    "image": "/assets/images/TwiceJeongyeon.png"
+  },
+  {
+    "id": 9,
+    "name": "Mina",
+    "image": "/assets/images/TwiceMina.png"
+  },
+  {
+    "id": 10,
+    "name": "Nayeon 2",
+    "image": "/assets/images/TwiceNayeon2.png"
+  },
+  {
+    "id": 11,
+    "name": "Tzuyu and Nayeon",
+    "image": "/assets/images/TzuyuNayeon.png"
+  },
+  {
+    "id": 12,
+    "name": "Twice Group",
+    "image": "/assets/images/TwiceThanks.png"
+  }
+]

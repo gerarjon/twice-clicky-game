@@ -1,0 +1,23 @@
+.navbar {
+    height: 5rem;
+    background: rgb(0, 127, 247);
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    color: #000;
+}
+
+.navbar-text {
+    font-size: 1.3rem;
+}
+
+.message {
+    color: rgb(245, 245, 245)!important;
+}
+
+@media only screen and (max-width: 650px) {
+    .navbar-text {
+        font-size: 0.8rem;
+    }
+  } 

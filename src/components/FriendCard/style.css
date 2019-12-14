@@ -1,0 +1,63 @@
+.card {
+  background: #fff;
+  border: 5px solid #fff;
+  border-radius: 2px;
+  height: 175px;
+  width: 175px;
+  margin: 0.5rem 1.3rem;
+  position: relative;
+  box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+  transition: all .05s ease-in-out;
+}
+
+.card:hover {
+  transform: scale(1.069);
+  box-shadow: 0px 3px 9px rgb(0, 127, 247), 0px 3px 12px rgb(89, 194, 255);
+}
+
+.card > .img-container {
+  height: 100%;
+  overflow: hidden;
+  text-align: center;
+  background:#6CADDC;
+}
+.card > .img-container > img {
+  max-width: 100%
+}
+
+.card > .content {
+  padding-left: 1rem;
+  padding-right: 1rem;
+  font-size: 15px;
+}
+
+.card > .content > ul {
+  list-style-type: none;
+}
+
+.card > .content > ul > li {
+  margin-top: 18px;
+}
+
+@media only screen and (max-width: 1200px) {
+  .card {
+    height: 125px;
+    width: 125px;
+  }
+} 
+
+@media only screen and (max-width: 768px) {
+  .card {
+    height: 100px;
+    width: 100px;
+  }
+} 
+
+@media only screen and (max-width: 530px) {
+  .card {
+    height: 75px;
+    width: 75px;
+  }
+} 
+
+

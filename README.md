@@ -1,4 +1,29 @@
+# Clicky Game
+A React game that tests the player's memory retention ability by displaying  unique image blocks and challenges the player to click on each block only once to win!
+
+[Deployed](https://gerarjon.github.io/clicky-game)
+
+<img width="1200" alt="Clicky Game" src="https://user-images.githubusercontent.com/47680567/70854595-a6b1da00-1e72-11ea-9042-0076770ea9cf.gif">
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+## How to Install
+
+Use 
+```
+git@github.com:gerarjon/clicky-game.git
+```
+within your console to clone the repository onto your machine.
+
+Run 
+```
+npm install
+```
+to  install all the packages used in this project.
+
 
 ## Available Scripts
 
@@ -31,38 +56,11 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Author
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+**Gerar Suaverdez** - [GitHub Profile](https://github.com/gerarjon)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Acknowledgements
+Thanks to UW Coding Bootcamp for all the coding and the bootcamp! Also, thank you to all the friends, family, and colleagues that tested the app!
+Twice!!
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
