@@ -5,6 +5,7 @@ import "./App.css";
 import Container from "./components/Container";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
+import Rules from "./components/Rules";
 
 class App extends React.Component {
   state = {
@@ -13,14 +14,22 @@ class App extends React.Component {
     topScore: 0,
     score: 0,
     message: "",
-    shake: false
+    shake: false,
+    show: false
+  };
+
+  hideModal = () => {
+    this.setState({ show: false });
   };
 
   componentDidMount() {
     this.setState({
       twice: this.shuffle(this.state.twice),
-      message: "Click an image to begin!"
-    }, () => console.log(`Images have been shuffed ${process.env.PUBLIC_URL}`));
+      message: "Click an image to begin!",
+      show: true
+    }, () => {
+      console.log(`Images have been shuffed ${process.env.PUBLIC_URL}`);
+    });
   }
 
   handleClick = event => {
@@ -31,6 +40,9 @@ class App extends React.Component {
     this.state.clickedArray.includes(event) ? this.setState({ clickedArray: [], score: 0, message: "You guesed incorrectly!", shake: true}) : this.setState({ clickedArray: this.state.clickedArray.concat([event]), score: this.state.score + 1, message: "You guessed correctly!", shake: false});
     if (this.state.score > this.state.topScore) {
       this.setState({topScore: this.state.score});
+    }
+    if (this.state.score > 6) {
+
     }
   }
 
@@ -46,7 +58,7 @@ class App extends React.Component {
     return (
       <div>
         <Navbar message={this.state.message} score={this.state.score} topScore={this.state.topScore} />
-        <Container shake={this.state.shake}>
+        <Container shake={this.state.shake}style={{ backgroundImage: `url(${process.env.PUBLIC_URL}/assets/images/background.png)` }}>
             {this.state.twice.map(friend => 
               <FriendCard
               handleClick={this.handleClick}
@@ -59,6 +71,7 @@ class App extends React.Component {
               />
             )}
         </Container>
+        <Rules show={this.state.show} hideModal={this.hideModal}/>
         <Footer />
       </div>
     );

@@ -14,7 +14,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Use 
 ```
-git@github.com:gerarjon/clicky-game.git
+git@github.com:gerarjon/twice-clicky-game.git
 ```
 within your console to clone the repository onto your machine.
 
