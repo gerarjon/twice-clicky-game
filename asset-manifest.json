@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/twice-clicky-game/static/css/main.093a23b7.chunk.css",
-    "main.js": "/twice-clicky-game/static/js/main.d9f83510.chunk.js",
-    "main.js.map": "/twice-clicky-game/static/js/main.d9f83510.chunk.js.map",
+    "main.js": "/twice-clicky-game/static/js/main.da1bc6be.chunk.js",
+    "main.js.map": "/twice-clicky-game/static/js/main.da1bc6be.chunk.js.map",
     "runtime-main.js": "/twice-clicky-game/static/js/runtime-main.780908a4.js",
     "runtime-main.js.map": "/twice-clicky-game/static/js/runtime-main.780908a4.js.map",
     "static/js/2.967ca4c6.chunk.js": "/twice-clicky-game/static/js/2.967ca4c6.chunk.js",
     "static/js/2.967ca4c6.chunk.js.map": "/twice-clicky-game/static/js/2.967ca4c6.chunk.js.map",
     "index.html": "/twice-clicky-game/index.html",
-    "precache-manifest.02a3a98cce3f0868810c1decaafce8aa.js": "/twice-clicky-game/precache-manifest.02a3a98cce3f0868810c1decaafce8aa.js",
+    "precache-manifest.19af2f19c69ee2906db87d82f5314319.js": "/twice-clicky-game/precache-manifest.19af2f19c69ee2906db87d82f5314319.js",
     "service-worker.js": "/twice-clicky-game/service-worker.js",
     "static/css/main.093a23b7.chunk.css.map": "/twice-clicky-game/static/css/main.093a23b7.chunk.css.map",
     "static/js/2.967ca4c6.chunk.js.LICENSE": "/twice-clicky-game/static/js/2.967ca4c6.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.780908a4.js",
     "static/js/2.967ca4c6.chunk.js",
     "static/css/main.093a23b7.chunk.css",
-    "static/js/main.d9f83510.chunk.js"
+    "static/js/main.da1bc6be.chunk.js"
   ]
 }
