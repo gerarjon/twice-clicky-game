@@ -5,7 +5,7 @@ function FriendCard(props) {
   return (
     <div className="card">
       <div className="img-container">
-        <img className="img-responsive" onClick={() => props.handleClick(props.id)} alt={props.name} src={props.image} />
+        <img className="img-responsive" onClick={() => props.handleClick(props.id)} alt={props.name} src={process.env.PUBLIC_URL + "/assets/images/" + props.image} />
       </div>
       {/* <div className="content">
         <ul>
