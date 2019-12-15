@@ -7,20 +7,6 @@ function FriendCard(props) {
       <div className="img-container">
         <img className="img-responsive" onClick={() => props.handleClick(props.id)} alt={props.name} src={process.env.PUBLIC_URL + "/assets/images/" + props.image} />
       </div>
-      {/* <div className="content">
-        <ul>
-          <li>
-            <strong>Name:</strong> {props.name}
-          </li>
-          <li>
-            <strong>Occupation:</strong> {props.occupation}
-          </li>
-          <li>
-            <strong>Address:</strong> {props.location}
-          </li>
-        </ul>
-      </div> */}
-      {/* <span className="remove" onClick={() => props.removeFriend(props.id)}>𝘅</span> */}
     </div>
   );
 }
