@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a082c417975a3e87e43d06f3deb0d5b0",
+    "revision": "4cddca50a3c81403c363b12c84e88b57",
     "url": "/twice-clicky-game/index.html"
   },
   {
-    "revision": "514cc9cccdb750f970ad",
+    "revision": "7a333bb7e5a4f2ee7e3b",
     "url": "/twice-clicky-game/static/css/main.093a23b7.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/twice-clicky-game/static/js/2.967ca4c6.chunk.js.LICENSE"
   },
   {
-    "revision": "514cc9cccdb750f970ad",
-    "url": "/twice-clicky-game/static/js/main.47aa7fae.chunk.js"
+    "revision": "7a333bb7e5a4f2ee7e3b",
+    "url": "/twice-clicky-game/static/js/main.d9f83510.chunk.js"
   },
   {
     "revision": "eaf96f3b9001e349821a",
