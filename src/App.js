@@ -20,7 +20,7 @@ class App extends React.Component {
     this.setState({
       twice: this.shuffle(this.state.twice),
       message: "Click an image to begin!"
-    }, () => console.log(`Images have been shuffed`));
+    }, () => console.log(`Images have been shuffed ${process.env.PUBLIC_URL}`));
   }
 
   handleClick = event => {
