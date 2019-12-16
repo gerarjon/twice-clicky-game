@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "https://gerarjon.github.io/twice-clicky-game/static/css/main.093a23b7.chunk.css",
-    "main.js": "https://gerarjon.github.io/twice-clicky-game/static/js/main.99fe4122.chunk.js",
-    "main.js.map": "https://gerarjon.github.io/twice-clicky-game/static/js/main.99fe4122.chunk.js.map",
+    "main.css": "https://gerarjon.github.io/twice-clicky-game/static/css/main.fa813755.chunk.css",
+    "main.js": "https://gerarjon.github.io/twice-clicky-game/static/js/main.8e52ec28.chunk.js",
+    "main.js.map": "https://gerarjon.github.io/twice-clicky-game/static/js/main.8e52ec28.chunk.js.map",
     "runtime-main.js": "https://gerarjon.github.io/twice-clicky-game/static/js/runtime-main.7883f6c5.js",
     "runtime-main.js.map": "https://gerarjon.github.io/twice-clicky-game/static/js/runtime-main.7883f6c5.js.map",
     "static/js/2.c17604e2.chunk.js": "https://gerarjon.github.io/twice-clicky-game/static/js/2.c17604e2.chunk.js",
     "static/js/2.c17604e2.chunk.js.map": "https://gerarjon.github.io/twice-clicky-game/static/js/2.c17604e2.chunk.js.map",
     "index.html": "https://gerarjon.github.io/twice-clicky-game/index.html",
-    "precache-manifest.ffad8741857b710d3ebe3103fb0beb46.js": "https://gerarjon.github.io/twice-clicky-game/precache-manifest.ffad8741857b710d3ebe3103fb0beb46.js",
+    "precache-manifest.cc7f92600909b453f809648d9dc00dad.js": "https://gerarjon.github.io/twice-clicky-game/precache-manifest.cc7f92600909b453f809648d9dc00dad.js",
     "service-worker.js": "https://gerarjon.github.io/twice-clicky-game/service-worker.js",
-    "static/css/main.093a23b7.chunk.css.map": "https://gerarjon.github.io/twice-clicky-game/static/css/main.093a23b7.chunk.css.map",
+    "static/css/main.fa813755.chunk.css.map": "https://gerarjon.github.io/twice-clicky-game/static/css/main.fa813755.chunk.css.map",
     "static/js/2.c17604e2.chunk.js.LICENSE": "https://gerarjon.github.io/twice-clicky-game/static/js/2.c17604e2.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.7883f6c5.js",
     "static/js/2.c17604e2.chunk.js",
-    "static/css/main.093a23b7.chunk.css",
-    "static/js/main.99fe4122.chunk.js"
+    "static/css/main.fa813755.chunk.css",
+    "static/js/main.8e52ec28.chunk.js"
   ]
 }

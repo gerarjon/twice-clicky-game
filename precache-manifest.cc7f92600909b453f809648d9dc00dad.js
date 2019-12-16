@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "08110774e6a14df804eadbac0d0ce4bc",
+    "revision": "d2e378b965e5c214f77712b7773ef404",
     "url": "https://gerarjon.github.io/twice-clicky-game/index.html"
   },
   {
-    "revision": "c4a340bf4580eef656c6",
-    "url": "https://gerarjon.github.io/twice-clicky-game/static/css/main.093a23b7.chunk.css"
+    "revision": "d35557d66188e959f375",
+    "url": "https://gerarjon.github.io/twice-clicky-game/static/css/main.fa813755.chunk.css"
   },
   {
     "revision": "73199d01b6486216d029",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://gerarjon.github.io/twice-clicky-game/static/js/2.c17604e2.chunk.js.LICENSE"
   },
   {
-    "revision": "c4a340bf4580eef656c6",
-    "url": "https://gerarjon.github.io/twice-clicky-game/static/js/main.99fe4122.chunk.js"
+    "revision": "d35557d66188e959f375",
+    "url": "https://gerarjon.github.io/twice-clicky-game/static/js/main.8e52ec28.chunk.js"
   },
   {
     "revision": "dce53d03370f7e287798",
