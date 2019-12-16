@@ -58,11 +58,7 @@ class App extends React.Component {
     return (
       <div>
         <Navbar message={this.state.message} score={this.state.score} topScore={this.state.topScore} />
-        <Container shake={this.state.shake} style = {{
-    backgroundImage: `url('${process.env.PUBLIC_URL}/assets/images/background.png')`,
-    backgroundSize: 'cover',
-    backgroundPosition: 'center center'
-}}>
+        <Container shake={this.state.shake}>
           {this.state.twice.map(friend => 
             <FriendCard
             handleClick={this.handleClick}
