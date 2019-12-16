@@ -58,18 +58,22 @@ class App extends React.Component {
     return (
       <div>
         <Navbar message={this.state.message} score={this.state.score} topScore={this.state.topScore} />
-        <Container shake={this.state.shake}style={{ backgroundImage: `url(${process.env.PUBLIC_URL}/assets/images/background.png)` }}>
-            {this.state.twice.map(friend => 
-              <FriendCard
-              handleClick={this.handleClick}
-              name={friend.name}
-              image={friend.image}
-              occupation={friend.occupation}
-              location={friend.location}
-              id={friend.id}
-              key={friend.id}
-              />
-            )}
+        <Container shake={this.state.shake} style = {{
+    backgroundImage: `url('${process.env.PUBLIC_URL}/assets/images/background.png')`,
+    backgroundSize: 'cover',
+    backgroundPosition: 'center center'
+}}>
+          {this.state.twice.map(friend => 
+            <FriendCard
+            handleClick={this.handleClick}
+            name={friend.name}
+            image={friend.image}
+            occupation={friend.occupation}
+            location={friend.location}
+            id={friend.id}
+            key={friend.id}
+            />
+          )}
         </Container>
         <Rules show={this.state.show} hideModal={this.hideModal}/>
         <Footer />

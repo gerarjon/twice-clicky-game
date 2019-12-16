@@ -38,13 +38,19 @@
     100% { transform: translate(1px, -2px) rotate(-1deg); }
 }
 @media only screen and (max-width: 992px) {
-    .container, .shake {
+    .container {
         width: 100%;
+    }
+    .shake {
+        width: 90%;
     }
 } 
 @media only screen and (max-width: 530px) {
     .container, .shake {
         grid-template-columns: 1fr 1fr 1fr;
+    }
+    .shake {
+        width: 100%;
     }
 } 
 /* @media only screen and (max-width: 600px) {

@@ -10,11 +10,6 @@
   transition: all .05s ease-in-out;
 }
 
-.card:hover {
-  transform: scale(1.069);
-  box-shadow: 0px 3px 9px rgb(0, 127, 247), 0px 3px 12px rgb(89, 194, 255);
-}
-
 .card > .img-container {
   height: 100%;
   overflow: hidden;
@@ -37,6 +32,13 @@
 
 .card > .content > ul > li {
   margin-top: 18px;
+}
+
+@media (hover:hover) {
+  .card:hover {
+    transform: scale(1.069);
+    box-shadow: 0px 3px 9px rgb(0, 127, 247), 0px 3px 12px rgb(89, 194, 255);
+  }
 }
 
 @media only screen and (max-width: 1200px) {
